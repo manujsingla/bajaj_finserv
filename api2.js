@@ -17,7 +17,7 @@ app.post(url,(req,res)=>{
     res.status(200)({
 	"company": "Bajaj Finserv",
 	"currentPrice": 6547.95 ,
-	"accountNumber": BFHL0018633,
+	"accountNumber": "BFHL0018633",
 	"githubRepoLink" : " https://github.com/"
 	});
   }
